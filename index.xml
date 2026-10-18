@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repo name="DC LAB Apps" url="https://dcg0.github.io/dclab-fdroid-repo/repositorio" icon="repo-icon.png">
+  <application id="com.dclab.dcscanner">
+    <name>DC Scanner</name>
+    <summary>Escáner OBD2 para diagnóstico automotriz</summary>
+    <description>Escanea y lee códigos de falla de tu automóvil a través del adaptador ELM327.</description>
+    <latestversion versioncode="1">1.0</latestversion>
+    <license>GPL-3.0</license>
+    <author email="dcg0@github.com">DC LAB</author>
+    <source>https://github.com/dcg0/dclab-fdroid-repo</source>
+  </application>
+</repo>
